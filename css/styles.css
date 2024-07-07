@@ -29,9 +29,3 @@ body {
   margin: 20px 0;
   border: 1px solid #ddd; /* Light gray border */
 }
-
-.tall-section {
-  background-color: #e0e0e0; /* Light gray background color for the tall section */
-  height: 1000px; /* Tall enough to require scrolling */
-  padding: 20px;
-}
