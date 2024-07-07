@@ -24,8 +24,15 @@ body {
 }
 
 .section {
-  background-color: #f9f9f9; /* Light gray background color for sections */
+  background-color: #ffffff; /* White background color for sections */
   padding: 20px;
   margin: 20px 0;
   border: 1px solid #ddd; /* Light gray border */
+  height: 200px; /* Ensure height consistency */
+}
+
+.tall-section {
+  background-color: #e0e0e0; /* Light gray background color for the tall section */
+  height: 1000px; /* Tall enough to require scrolling */
+  padding: 20px;
 }
